@@ -1,0 +1,94 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "color": "Silver",
+      "price": 27470,
+      "fuelType": "Gasoline"
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "color": "Blue",
+      "price": 23950,
+      "fuelType": "Hybrid"
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2021,
+      "color": "Black",
+      "price": 32745,
+      "fuelType": "Gasoline"
+    },
+    {
+      "id": 4,
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "color": "Red",
+      "price": 40240,
+      "fuelType": "Electric"
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "X5",
+      "year": 2022,
+      "color": "White",
+      "price": 61400,
+      "fuelType": "Plug-in Hybrid"
+    },
+    {
+      "id": 6,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2023,
+      "color": "Black",
+      "price": 43950,
+      "fuelType": "Gasoline"
+    },
+    {
+      "id": 7,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "color": "Gray",
+      "price": 39900,
+      "fuelType": "Gasoline"
+    },
+    {
+      "id": 8,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "year": 2023,
+      "color": "Blue",
+      "price": 35900,
+      "fuelType": "Diesel"
+    },
+    {
+      "id": 9,
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2023,
+      "color": "Green",
+      "price": 28645,
+      "fuelType": "Gasoline"
+    },
+    {
+      "id": 10,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2023,
+      "color": "White",
+      "price": 26450,
+      "fuelType": "Hybrid"
+    }
+  ]
+}
